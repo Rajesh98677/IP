@@ -1,3 +1,2 @@
 # IP
-This is my first program
-In html coding
+This is my first coding in html.
